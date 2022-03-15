@@ -8,6 +8,8 @@ namespace Lab_1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            
+            //komentar1_stKurir
         }
     }
 }
