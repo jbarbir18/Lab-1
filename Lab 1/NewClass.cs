@@ -7,4 +7,5 @@ namespace Lab_1
     class NewClass
     {
     }
-}
+} //ae
+
